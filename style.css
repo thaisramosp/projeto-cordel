@@ -19,7 +19,7 @@
 html, body {
     font-family: var(--fonte1);
     background-color: darkslategray;
-    min-width: 100vh;
+    min-height: 100vh;
 }
 
 header {
@@ -36,6 +36,8 @@ header h1{
 }
 header p {
     padding-bottom: 50px;
+    font-family: var(--fonte1);
+    font-size: 1em;
 }
 
 a {
